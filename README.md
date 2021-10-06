@@ -5,7 +5,7 @@ A small GTK program written in Go to help me train to use a graphical tablet as 
 The main goals of this project were to:
 
 - Teach me how to use Go and GTK
-- And to create the app it self
+- And to create the app itself
 
 # How to run
 
